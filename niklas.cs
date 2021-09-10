@@ -1,4 +1,4 @@
 public string (string KeK)
 {
-    KeK = "LUL xD :^)"
+    KeK = "change"
 }
